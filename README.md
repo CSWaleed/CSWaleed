@@ -16,7 +16,7 @@
 
 ###
 
-<img align="left" height="546" src="assets/space.gif"  />
+<img align="left" height="546" src="assets/space.gif" alt="space gif"  />
 
 ###
 
