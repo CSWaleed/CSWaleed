@@ -1,6 +1,6 @@
 <h1 align="center">Hi there!👋 My name is Waleed.</h1>
 
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/waleedcs/" target="_blank">
@@ -14,13 +14,17 @@
   </a>
 </div>
 
-###
+<p align="center">
+<img src="ca4d2391455ade48053c0b6861842574.gif" alt="Alt text" width="1000" />
+</p>
 
-<img align="left" height="614" src="ca4d2391455ade48053c0b6861842574.gif"  />
+## 💬 About Me
+I'm a first-year **Computer Engineering** student at the **University of Waterloo**. I'm interested in building **scalable**, **innovative** solutions at the intersection of **web** development, **AI**, **machine learning**, and **embedded systems**. I’m particularly passionate about projects that tackle real-world societal challenges such as climate sustainability, accessibility, robotics, and automation.
 
 ###
 
 <p align="left"></p>
+</p>
 
 ###
 
@@ -86,15 +90,6 @@
 
 ###
 
-<br clear="both">
-
-<h2 align="left">💬 About Me:</h2>
-
-###
-
-<p align="left">I'm a first-year Computer Science student at the tmu. I'm interested in building scalable, innovative solutions at the intersection of web development, AI, machine learning, and embedded systems. I’m particularly passionate about projects that tackle real-world societal challenges such as climate sustainability, accessibility, robotics, and automation.</p>
-
-###
 
 <h2 align="left">🔍 What I'm Working On</h2>
 
