@@ -16,7 +16,7 @@
 
 ###
 
-<img align="left" height="546" src="ca4d2391455ade48053c0b6861842574.gif" />
+<img align="left" height="490" src="ca4d2391455ade48053c0b6861842574.gif"  />
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -88,7 +88,7 @@
 
 ###
 
-<p align="left">'m a first-year Computer Engineering student at the University of Waterloo. I'm interested in building scalable, innovative solutions at the intersection of web development, AI, machine learning, and embedded systems. I’m particularly passionate about projects that tackle real-world societal challenges such as climate sustainability, accessibility, robotics, and automation.</p>
+<p align="left">I'm a first-year Computer Science student at the tmu. I'm interested in building scalable, innovative solutions at the intersection of web development, AI, machine learning, and embedded systems. I’m particularly passionate about projects that tackle real-world societal challenges such as climate sustainability, accessibility, robotics, and automation.</p>
 
 ###
 
