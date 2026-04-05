@@ -103,7 +103,7 @@ I'm a second-year **Computer Science** student at **Toronto Metropolitan Univers
 
 ###
 
-<p align="left">I'm always open to collaborating on projects that make a meaningful impact — especially those that combine incorporate AI/ML, Data Science, and Full-Stack Development in creative ways. Feel free to connect via my socials!</p>
+<p align="left">I'm always open to collaborating on projects that make a meaningful impact, especially those that combine incorporate AI/ML, Data Science, and Full-Stack Development in creative ways. Feel free to connect via my socials!</p>
 
 ###
 
